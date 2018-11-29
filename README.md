@@ -2,7 +2,7 @@
 ## Clone
 - Tạo ssh-key cho máy: `ssh-keygen`
 - Lấy nội dung của ssh-key và ném vào github/gitlab: `cat ~/.ssh/id_rsa.pub`
-- Clone từ github/gitlab
+- Clone từ github/gitlab: `git clone (ssh)`
 
 ## Cài composer dependency 
 - `composer install`: cài các gói
